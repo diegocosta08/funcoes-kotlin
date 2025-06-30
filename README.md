@@ -1,4 +1,4 @@
-## Exercícios Funções-Kotlin
+## Exercícios Kotlin — Fundamentos com Listas e Funções
 
 ## Exercício 1 — Crie uma função de Ordem Superior que receba dois números inteiros de parâmetro e retorne o resultado da soma.
 
